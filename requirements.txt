@@ -1,0 +1,7 @@
+tensorflow==2.17.0
+numpy>=1.23.5,<2.0.0
+pandas
+scikit-learn
+matplotlib
+seaborn
+openpyxl
