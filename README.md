@@ -65,7 +65,8 @@ Studies indicate Random Forest is effective for interpretability and handling sm
 ## Results
 
 Original Log Data
-![image](https://github.com/user-attachments/assets/0e75cda9-56f2-4ab0-9e8b-8d454caf7ebd)
+
+![image](https://github.com/user-attachments/assets/ab68ff6b-bc52-4029-bef9-110c8e8835ab)
 
 Predicted DTCO Log Values using Random Forest.
 
@@ -99,10 +100,6 @@ Original vs Predicted DTCO Values Graph for Artificial Neural Network.
 ### Random Forest Results
 
 ![image](https://github.com/user-attachments/assets/e968962a-8a68-4786-9efc-921d9f98ce4a)
-
-Here’s a structured "Conclusion" section formatted for your repository README file:
-
----
 
 ## Conclusion
 
